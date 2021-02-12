@@ -29,7 +29,7 @@ I also enjoy having mindful conversations with interesting people. Having Good o
 ---
 
 <p>
-  <img width="400" align='left' src="https://github.com/joydevhati1998/joydevhati1998/blob/main/Images/Coding.gifoding.gif">
+  <img width="400" align='left' src="https://github.com/joydevhati1998/joydevhati1998/blob/main/Images/Coding.gif">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
