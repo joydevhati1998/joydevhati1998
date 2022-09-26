@@ -22,7 +22,7 @@
 
 Hey there 👋,
 
-My name is **Joydev Hati**, I'm currently a second year college undergraduate at [Maharaja Agrasen Institute of Technology,Delhi ECE ' 23](https://mait.ac.in/).
+My name is **Joydev Hati**, I'm currently a 4th year college undergraduate at [Maharaja Agrasen Institute of Technology,Delhi ECE ' 23](https://mait.ac.in/).
 The contented feeling of making a difference is what drives me to work on projects that have an impact in the real-world. Currently giving my all to Protégé Maharaja Agrasen Institute ogvTechnology, Delhi **.
 I also enjoy having mindful conversations with interesting people. Having Good oratory skills is what I am working on and what excites me nowadays.  
 
